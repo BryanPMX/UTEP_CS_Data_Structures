@@ -13,7 +13,11 @@ This repository is structured to include directories for each major topic, featu
 LinkedLists: Custom implementation of linked lists, showcasing insertion, deletion, and traversal operations.
 
 Stacks and Queues: Examples of stack and queue operations using arrays and linked lists.
+
 Trees: Various tree structures including binary trees, AVL trees, and B-trees with operations such as searching, insertion, and balancing.
+
 Graphs: Implementation of graph structures and algorithms for traversal, including depth-first and breadth-first searches.
+
 Sorting Algorithms: Implementation of fundamental sorting algorithms like quicksort, mergesort, and heapsort.
+
 Searching Algorithms: Demonstrations of linear and binary search techniques.
