@@ -8,13 +8,13 @@ package Java;
   
 */
 
-public class BinaryTree {
+public class BinarySearchTree {
     private BinaryTreeNode root; // The root node of the binary tree.
 
     /**
      * Constructor to create an empty binary tree.
      */
-    public BinaryTree() {
+    public BinarySearchTree() {
         this.root = null; // Initially, the tree has no nodes.
     }
 
@@ -112,7 +112,7 @@ public class BinaryTree {
      * Main method to demonstrate the functionality of the BinaryTree class.
      */
     public static void main(String[] args) {
-        BinaryTree bt = new BinaryTree();
+        BinarySearchTree bt = new BinarySearchTree();
         // Insert nodes into the binary tree.
         bt.insert(50);
         bt.insert(30);
