@@ -1,13 +1,13 @@
 # Course Overview:
 The course is divided into two main sections:
 
-Programming and Algorithms:
+- **Programming and Algorithms**:
 In this section, we explore fundamental computing algorithms with a focus on searching and sorting techniques. The projects demonstrate the application of these algorithms in various scenarios, emphasizing algorithm analysis to understand their efficiency and limitations.
 
-Data Structures:
+- **Data Structures**:
 This section delves into abstract data types and their implementations using different data structures such as sets, lists, trees, and graphs. Each data structure is represented through practical coding examples that showcase their unique properties and operations. Additionally, we discuss memory management techniques including storage allocation and garbage collection.
 
-Projects:
+- **Projects**:
 This repository is structured to include directories for each major topic, featuring implementations and detailed examples:
 
 LinkedLists: Custom implementation of linked lists, showcasing insertion, deletion, and traversal operations.
